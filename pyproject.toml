@@ -1,0 +1,9 @@
+[project]
+name = "solver-postcuantica"
+version = "0.1.0"
+description = "Criptoanálisis de GGH, LWE y Ring-LWE (trabajo de Criptología, MUCC)"
+requires-python = ">=3.10"
+dependencies = [
+    "fpylll==0.6.4",
+    "cysignals",
+]
