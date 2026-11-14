@@ -1,0 +1,5 @@
+# Con la hipótesis de la memoria: base y criptograma centrados en (-n/2, n/2].
+# Respuesta centrada y, a la derecha, reducida a [0, n).
+Tier03T01_GGH (n = 1987): (108, 163)
+Tier03T02_GGH (n = 113):  (-27, -46) ≡ (86, 67)
+Tier03T05_GGH (n = 541):  (29, 12, -43, 27, 2) ≡ (29, 12, 498, 27, 2)
